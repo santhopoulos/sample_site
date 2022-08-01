@@ -1,7 +1,7 @@
 ---
 title: "Html essentialss"
 date: 2022-08-01T12:17:04+03:00
-draft: true
+draft: false
 featured_image: 'img/summer5.jpg'
 tags: ['tag1','tag8']
 ---

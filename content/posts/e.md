@@ -1,7 +1,7 @@
 ---
 title: "sample blog post"
 date: 2022-08-01T12:17:07+03:00
-draft: true
+draft: false
 featured_image: 'img/summer8.jpg'
 tags: ['tag1','tag2','tag3','tag4','tag5','tag6','tag7','tag8']
 categories: ['cat1','cat2','cat3']

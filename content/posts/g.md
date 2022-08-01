@@ -1,7 +1,7 @@
 ---
 title: "myBlogPost"
 date: 2022-08-01T12:17:14+03:00
-draft: true
+draft: false
 featured_image: 'img/summer1.jpg'
 tags: ['tag1','tag3','tag4','tag8']
 ---

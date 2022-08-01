@@ -1,7 +1,7 @@
 ---
 title: "css essentials"
 date: 2022-08-01T12:17:11+03:00
-draft: true
+draft: false
 featured_image: 'img/summer6.jpg'
 tags: ['tag1','tag2']
 ---

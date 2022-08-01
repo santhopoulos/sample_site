@@ -1,7 +1,7 @@
 ---
 title: "My third post"
 date: 2022-08-01T12:17:01+03:00
-draft: true
+draft: false
 featured_image: 'img/summer4.jpg'
 tags: ['tag1','tag2','tag3','tag4','tag8']
 
